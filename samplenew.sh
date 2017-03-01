@@ -1,2 +1,3 @@
 uptime
 top
+useradd vishal
